@@ -26,7 +26,9 @@
 
 <br/>
 
-### Contributions stats.
+### My stats.
 
-<!-- METADATA:START -->
-<!-- METADATA:END -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavel11988)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavel11988&layout=compact)
+<br/>
