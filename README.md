@@ -2,11 +2,11 @@
 
 ## I'm a full stack developer. 💻🦫
 
-📌 I like writing code.
-📌 Create new interesting applications.
-📌 Participate in team projects.
-📌 Study new technologies.
-📌 Follow other developers on YouTube.
+📌 I like writing code.<br />
+📌 Create new interesting applications.<br />
+📌 Participate in team projects.<br />
+📌 Study new technologies.<br />
+📌 Follow other developers on YouTube.<br />
 
 <br />
 
@@ -20,5 +20,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" **alt="mongodb" width="40" height="40"/>
 </div>
