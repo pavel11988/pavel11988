@@ -42,5 +42,3 @@
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavel11988&layout=compact&show_icons=true&theme=tokyonight)
 <br/>
-![snake gif](https://github.com/pavel11988/pavel11988/blob/output/github-contribution-grid-snake.gif)
-<br/>
