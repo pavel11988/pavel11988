@@ -39,8 +39,10 @@
 <br/>
 
 ### My stats.
+ <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=pavel11988&theme=react&line_height=40&hide=css"/> </a> 
+<br/>
+  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pavel11988&theme=react&line_height=40&hide=css"/> </a> 
+<br/>
+<br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavel11988&show_icons=true&theme=gruvbox)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavel11988&layout=compact&show_icons=true&theme=tokyonight)
-<br/>
+![Counter](https://komarev.com/ghpvc/?username=pavel11988&color=blueviolet)
